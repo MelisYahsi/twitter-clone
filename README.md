@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-  git clone https://github.com/Samettkaya/twitter-clone.git
+  git clone https://github.com/MelisYahsi/twitter-clone.git
   cd twitter-clone
   npm install
   npm start
